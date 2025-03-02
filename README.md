@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed AbdElazez</h1>
+<h1 align="center">Hi, I'm Ahmed AbdElazez 👋</h1>
 <h3 align="center">A CS Student with Great Expectations</h3>
 
 <h3 align="left">Connect with me:</h3>
